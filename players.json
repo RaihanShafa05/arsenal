@@ -71,6 +71,24 @@
     "International": "England",
     "Team": "Arsenal",
     "Poster": "https://latest.fotmob.com/wp-content/uploads/2025/02/Covers_FPL-Tips-MD25-1402-1.png"
+  },
+  {
+    "no": "11",
+    "name": "Gabriel Martinelli",
+    "birth_date": "2001-06-18",
+    "Position": "FORWARDS",
+    "International": "Brazil",
+    "Team": "Arsenal",
+    "Poster": "https://www.footballdatabase.eu/images/photos/players/a_382/382177.jpg"
+  },
+  {
+    "no": "49",
+    "name": "Myles Lewis-Skelly",
+    "birth_date": "2006-09-26",
+    "Position": "MIDFIELDERS",
+    "International": "England",
+    "Team": "Arsenal",
+    "Poster": "https://i2-prod.football.london/arsenal-fc/news/article30028456.ece/ALTERNATES/s810/2_Manchester-City-FC-v-Arsenal-FC-Premier-League.jpg"
   }
  ]
 }
